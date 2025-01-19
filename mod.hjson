@@ -1,0 +1,8 @@
+name: cradle-of-civilization
+displayName: Cradle of Civilization
+author: nautrw
+description: "mod that does stuff"
+version: "0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
